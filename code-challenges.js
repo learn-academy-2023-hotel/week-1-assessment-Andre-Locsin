@@ -50,12 +50,12 @@
 
 const padres1984WorldSeriesRuns = [2, 5, 2, 2, 4]
 const padres1998WorldSeriesRuns = [6, 3, 5, 3]
- const padresWorldSeriesRuns = (padres1984WorldSeriesRuns.length) + (padres1998WorldSeriesRuns.legnth)
+ const padresWorldSeriesRuns =(padres1984WorldSeriesRuns.length) + (padres1998WorldSeriesRuns.legnth)
  console.log(padresWorldSeriesRuns)
 
 // Expected output: 9
 
-// Pseudo code:
+// Pseudo code: will count the amount of index present in the combined array without extracting the actual value.
 
 // --------------------2) Create the code that will reverse the letters of a string using the test variable provided below.
 

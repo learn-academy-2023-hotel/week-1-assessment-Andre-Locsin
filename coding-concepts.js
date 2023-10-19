@@ -52,4 +52,4 @@ const dataTypes = ["number", "string", "Boolean", "undefined"]
 // console.log(typeof dataTypes.length)
 
 // a) Your answer: 28
-// b) Verify and explain: 
+// b) Verify and explain: .length will count the number of character in the string

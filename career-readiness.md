@@ -15,8 +15,8 @@ www.linkedin.com/in/andre-locsin
 Check the boxes below to certify that your LinkedIn contains:
 
 - [X] professional profile picture (must be your actual face)
-- [] a headline that contains a reference to your career in web development
+- [X] a headline that contains a reference to your career in web development
 - [X] your last job listed in the experience section
 - [X] your new educational experience at LEARN
-- [] at least ten professional connections
-- [] a post about your career transition
+- [X] at least ten professional connections
+- [X] a post about your career transition
